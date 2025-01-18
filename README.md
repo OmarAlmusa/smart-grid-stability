@@ -5,6 +5,8 @@ This project explores the stability of smart grids through the application of ma
 
 The project builds on Paulo Breviglieri’s foundational insights, offering a distinct perspective by employing diverse classification algorithms, feature engineering techniques, and model interpretability tools.
 
+Link to the <a href="https://www.kaggle.com/datasets/pcbreviglieri/smart-grid-stability/data">dataset</a>
+
 ---
 
 ## Renewable Energy Sources and Smart Grids
